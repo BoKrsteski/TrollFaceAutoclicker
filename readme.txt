@@ -11,7 +11,7 @@
 
 -the autoclicker can click or hold any key on  your keyboard and right/leftclick!
 
--ty for actually reading this btw!
+-thank you for actually reading this btw!
 
 -report any glitches or bugs to @n0f4c3_666 on discord
 
