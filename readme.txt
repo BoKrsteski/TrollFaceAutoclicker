@@ -1,7 +1,7 @@
 
 -TrollFaceAutoclicker is made by N0F4C3 a.k.a  Bo, a 15 (now 16) year old coder who loves to make random applications 
 
--this program is completely free to use and    to share! no need to pirate or jailbreak      other autoclickers that want ur money!
+-this program is completely free to use and to share! no need to pirate or jailbreak other autoclickers that want your money!
 
 -select between click and hold! 
 		
